@@ -1,0 +1,21 @@
+{
+  "name": "siteCrawling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "cssjson": "^2.1.3",
+    "exceljs": "^4.2.1",
+    "install": "^0.13.0",
+    "node-fetch": "^2.6.1",
+    "npm": "^7.8.0"
+  }
+}
